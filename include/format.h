@@ -4,7 +4,7 @@
 #include <string>
 
 namespace Format {
-std::string ToString(int value);
+std::string NumToString(int value);
 std::string ElapsedTime(long times);
 };
 
